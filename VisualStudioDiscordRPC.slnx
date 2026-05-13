@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VisualStudioDiscordRPC.Dev16/VisualStudioDiscordRPC.Dev16.csproj">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="VisualStudioDiscordRPC.Dev17/VisualStudioDiscordRPC.Dev17.csproj">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="VisualStudioDiscordRPC.Shared/VisualStudioDiscordRPC.Shared.shproj" />
+</Solution>
